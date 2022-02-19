@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DennisMuturi
+- 👋 Hi, I’m @dennismuturi
 - 👀 I’m interested in Front End Web development
 - 🌱 I’m currently learning React Js / React Native
 - 💞️ I’m looking to collaborate on web projects
